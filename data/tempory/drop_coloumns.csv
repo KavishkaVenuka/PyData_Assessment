@@ -27,6 +27,7 @@ date,venue,match_category,team_1,team_2,team_1_runs,team_1_wickets,team_2_runs,t
 1979-06-20, Manchester,Semi-Final,ENG,NZ,221.0,8.0,212.0,9.0,England won by 9 runs,Graham Gooch,,,1979,England
 , Nottingham,League-Match,SL,NZ,189.0,0.0,190.0,1.0,New Zealand won by 9 wickets (with 74 balls remaining),Geoff Howarth,,,1979,England
 1979-06-13, Leeds,League-Match,IND,NZ,182.0,0.0,183.0,2.0,New Zealand won by 8 wickets (with 18 balls remaining),Bruce Edgar,,,1979,England
+, The Oval,League-Match,SL,WI,,,,,Match abandoned without a ball bowled,,,,1979,England
 , The Oval,Semi-Final,WI,PAK,293.0,6.0,250.0,0.0,West Indies won by 43 runs,Gordon Greenidge,,,1979,England
 1979-06-23, Lord's,Final,WI,ENG,286.0,9.0,194.0,0.0,West Indies won by 92 runs,Viv Richards,,,1979,England
 1979-06-09, Birmingham,League-Match,IND,WI,190.0,0.0,194.0,1.0,West Indies won by 9 wickets (with 51 balls remaining),Gordon Greenidge,,,1979,England
@@ -96,6 +97,7 @@ date,venue,match_category,team_1,team_2,team_1_runs,team_1_wickets,team_2_runs,t
 1992-02-26, Sydney,League-Match,AUS,SA,170.0,9.0,171.0,1.0,South Africa won by 9 wickets (with 13 balls remaining),Kepler Wessels,,,1992,Australia
 1992-03-10, Wellington,League-Match,IND,WI,197.0,0.0,195.0,5.0,West Indies won by 5 wickets (with 34 balls remaining) (revised target),Anderson Cummins,,,1992,New Zealand
 1992-03-01, Brisbane,League-Match,AUS,IND,237.0,9.0,234.0,0.0,Australia won by 1 run (revised target),Dean Jones,,,1992,Australia
+1992-02-28, Mackay,League-Match,IND,SL,1.0,0.0,,,No result,,,,1992,New Zealand
 , Perth,League-Match,ENG,IND,236.0,9.0,227.0,0.0,England won by 9 runs,Ian Botham,,,1992,Australia
 , Perth,League-Match,SL,PAK,212.0,6.0,216.0,6.0,Pakistan won by 4 wickets (with 5 balls remaining),Javed Miandad,,,1992,Australia
 1992-03-05, Christchurch,League-Match,SA,WI,200.0,8.0,136.0,0.0,South Africa won by 64 runs,Meyrick Pringle,,,1992,New Zealand
@@ -137,9 +139,11 @@ date,venue,match_category,team_1,team_2,team_1_runs,team_1_wickets,team_2_runs,t
 , Faisalabad,League-Match,NZ,UAE,276.0,8.0,167.0,9.0,New Zealand won by 109 runs,Roger Twose,,,1996,Pakistan
 1996-02-17, Vadodara,League-Match,NZ,NED,307.0,8.0,188.0,7.0,New Zealand won by 119 runs,Craig Spearman,,,1996,India
 1996-03-04, Jaipur,League-Match,AUS,WI,229.0,6.0,232.0,6.0,West Indies won by 4 wickets (with 7 balls remaining),Richie Richardson,,,1996,India
+1996-02-25, Colombo (RPS),League-Match,SL,WI,,,,,Sri Lanka won (walkover without a ball bowled),,,,1996,Sri Lanka
 1996-03-17, Lahore,Final,AUS,SL,241.0,7.0,245.0,3.0,Sri Lanka won by 7 wickets (with 22 balls remaining),Aravinda de Silva,,,1996,Pakistan
 1996-03-13, Eden Gardens,Semi-Final,SL,IND,251.0,8.0,120.0,8.0,Sri Lanka won by default,Aravinda de Silva,,,1996,India
 , Chennai,League-Match,NZ,AUS,286.0,9.0,289.0,4.0,Australia won by 6 wickets (with 13 balls remaining),Mark Waugh,,,1996,India
+1996-02-26, Patna,League-Match,ZIM,KENYA,45.0,3.0,,,No result,,,,1996,India
 , Bengaluru,League-Match,IND,PAK,287.0,8.0,248.0,9.0,India won by 39 runs,Navjot Sidhu,,,1996,India
 1996-02-24, Gujranwala,League-Match,UAE,PAK,109.0,9.0,112.0,1.0,Pakistan won by 9 wickets (with 90 balls remaining),Mushtaq Ahmed,,,1996,Pakistan
 1996-03-05, Rawalpindi,League-Match,SA,NED,328.0,3.0,168.0,8.0,South Africa won by 160 runs,Andrew Hudson,,,1996,Pakistan
@@ -148,6 +152,7 @@ date,venue,match_category,team_1,team_2,team_1_runs,team_1_wickets,team_2_runs,t
 , Lahore,League-Match,NED,PAK,145.0,7.0,151.0,2.0,Pakistan won by 8 wickets (with 116 balls remaining),Waqar Younis,,,1996,Pakistan
 , Lahore,League-Match,PAK,NZ,281.0,5.0,235.0,0.0,Pakistan won by 46 runs,Saleem Malik,,,1996,Pakistan
 1996-03-03, Karachi,League-Match,ENG,PAK,249.0,9.0,250.0,3.0,Pakistan won by 7 wickets (with 14 balls remaining),Aamer Sohail,,,1996,Pakistan
+, Colombo (RPS),League-Match,SL,AUS,,,,,Sri Lanka won (walkover without a ball bowled),,,,1996,Sri Lanka
 , Peshawar,League-Match,UAE,ENG,136.0,0.0,140.0,2.0,England won by 8 wickets (with 90 balls remaining),Neil Smith,,,1996,Pakistan
 , Karachi,League-Match,PAK,SA,242.0,6.0,243.0,5.0,South Africa won by 5 wickets (with 34 balls remaining),Hansie Cronje,,,1996,Pakistan
 1996-02-27, Patna,League-Match,KENYA,ZIM,134.0,0.0,137.0,5.0,Zimbabwe won by 5 wickets (with 46 balls remaining),Paul Strang,,,1996,India
@@ -216,6 +221,7 @@ date,venue,match_category,team_1,team_2,team_1_runs,team_1_wickets,team_2_runs,t
 2003-03-14, Centurion,League-Match,NZ,IND,146.0,0.0,150.0,3.0,India won by 7 wickets (with 56 balls remaining),Zaheer Khan,,,2003,South Africa
 2003-02-20, Potchefstroom,League-Match,AUS,NED,170.0,2.0,122.0,0.0,Australia won by 75 runs (D/L method),Damien Martyn,,,2003,South Africa
 2003-03-23, Johannesburg,Final,AUS,IND,359.0,2.0,234.0,0.0,Australia won by 125 runs,Ricky Ponting,,,2003,South Africa
+2003-03-04, Bulawayo,League-Match,PAK,ZIM,73.0,3.0,,,No result,,,,2003,South Africa
 , Kimberley,League-Match,PAK,NAM,255.0,9.0,84.0,0.0,Pakistan won by 171 runs,Wasim Akram,,,2003,South Africa
 , Durban,League-Match,KENYA,AUS,174.0,8.0,178.0,5.0,Australia won by 5 wickets (with 112 balls remaining),Aasif Karim,,,2003,South Africa
 2003-03-20, Durban,Semi-Final,IND,KENYA,270.0,4.0,179.0,0.0,India won by 91 runs,Sourav Ganguly,,,2003,South Africa
@@ -233,6 +239,7 @@ date,venue,match_category,team_1,team_2,team_1_runs,team_1_wickets,team_2_runs,t
 2003-02-18, Benoni,League-Match,WI,BAN,244.0,9.0,32.0,2.0,No result,,,,2003,South Africa
 2003-02-25, Paarl,League-Match,PAK,NED,253.0,9.0,156.0,0.0,Pakistan won by 97 runs,Mohammad Yousuf,,,2003,South Africa
 2003-03-10, Johannesburg,League-Match,IND,SL,292.0,6.0,109.0,0.0,India won by 183 runs,Javagal Srinath,,,2003,South Africa
+2003-02-21, Nairobi (Gym),League-Match,KENYA,NZ,,,,,Kenya won (walkover without a ball bowled),,,,2003,South Africa
 2003-02-14, Pietermaritzburg,League-Match,BAN,SL,124.0,0.0,126.0,0.0,Sri Lanka won by 10 wickets (with 173 balls remaining),Chaminda Vaas,,,2003,South Africa
 , Johannesburg,League-Match,SA,NZ,306.0,6.0,229.0,1.0,New Zealand won by 9 wickets (with 13 balls remaining) (D/L method),Stephen Fleming,,,2003,South Africa
 2003-02-24, Nairobi (Gym),League-Match,KENYA,SL,210.0,9.0,157.0,0.0,Kenya won by 53 runs,Collins Obuya,,,2003,South Africa
@@ -243,6 +250,7 @@ date,venue,match_category,team_1,team_2,team_1_runs,team_1_wickets,team_2_runs,t
 2003-03-12, Bloemfontein,League-Match,ZIM,KENYA,133.0,0.0,135.0,3.0,Kenya won by 7 wickets (with 144 balls remaining),Martin Suji,,,2003,South Africa
 2003-02-16, East London,League-Match,NED,ENG,142.0,9.0,144.0,4.0,England won by 6 wickets (with 160 balls remaining),James Anderson,,,2003,South Africa
 2003-03-18, Gqeberha,Semi-Final,AUS,SL,212.0,7.0,123.0,7.0,Australia won by 48 runs (D/L method),Andrew Symonds,,,2003,South Africa
+2003-02-21, Nairobi (Gym),League-Match,KENYA,NZ,,,,,Kenya won (walkover without a ball bowled),,,,2003,South Africa
 2003-03-12, Bloemfontein,League-Match,ZIM,KENYA,133.0,0.0,135.0,3.0,Kenya won by 7 wickets (with 144 balls remaining),Martin Suji,,,2003,South Africa
 2003-02-09, Cape Town,League-Match,WI,SA,278.0,5.0,275.0,9.0,West Indies won by 3 runs,Brian Lara,,,2003,South Africa
 , Cape Town,League-Match,KENYA,IND,225.0,6.0,226.0,4.0,India won by 6 wickets (with 13 balls remaining),Sourav Ganguly,,,2003,South Africa
@@ -254,6 +262,7 @@ date,venue,match_category,team_1,team_2,team_1_runs,team_1_wickets,team_2_runs,t
 2003-02-12, Potchefstroom,League-Match,KENYA,SA,140.0,0.0,142.0,0.0,South Africa won by 10 wickets (with 172 balls remaining),Lance Klusener,,,2003,South Africa
 , Pietermaritzburg,League-Match,IND,NAM,311.0,2.0,130.0,0.0,India won by 181 runs,Sachin Tendulkar,,,2003,South Africa
 2003-03-15, East London,League-Match,SL,ZIM,256.0,5.0,182.0,0.0,Sri Lanka won by 74 runs,Marvan Atapattu,,,2003,South Africa
+2003-02-13, Harare,League-Match,ZIM,ENG,,,,,Zimbabwe won (walkover without a ball bowled),,,,2003,South Africa
 2003-03-02, Gqeberha,League-Match,ENG,AUS,204.0,8.0,208.0,8.0,Australia won by 2 wickets (with 2 balls remaining),Andy Bichel,,,2003,South Africa
 2003-02-28, Bulawayo,League-Match,ZIM,NED,301.0,8.0,202.0,9.0,Zimbabwe won by 99 runs,Heath Streak,,,2003,South Africa
 2003-03-01, Johannesburg,League-Match,KENYA,BAN,217.0,7.0,185.0,0.0,Kenya won by 32 runs,Maurice Odumbe,,,2003,South Africa
@@ -356,6 +365,7 @@ date,venue,match_category,team_1,team_2,team_1_runs,team_1_wickets,team_2_runs,t
 , Chattogram,League-Match,ENG,BAN,225.0,0.0,227.0,8.0,Bangladesh won by 2 wickets (with 6 balls remaining),Imrul Kayes,"['IJL Trott - 67 runs ', 'EJG Morgan - 63 runs ']","['A Shahzad - 3', 'Abdur Razzak - 2']",2011,Bangladesh
 2011-02-22, Nagpur,League-Match,NED,ENG,292.0,6.0,296.0,4.0,England won by 6 wickets (with 8 balls remaining),Ryan ten Doeschate,"['RN ten Doeschate - 119 runs ', 'AJ Strauss - 88 runs ']","['GP Swann - 2', 'RN ten Doeschate - 2']",2011,India
 , Mirpur,League-Match,BAN,WI,58.0,0.0,59.0,1.0,West Indies won by 9 wickets (with 226 balls remaining),Kemar Roach,"['CH Gayle - 37 runs ', 'Junaid Siddique - 25 runs ']","['SJ Benn - 4', 'DJG Sammy - 3']",2011,Bangladesh
+2011-03-05, Colombo (RPS),League-Match,SL,AUS,146.0,3.0,,,No result,,"['KC Sangakkara - 73 runs ', 'TT Samaraweera - 34 runs ']","['SW Tait - 1', 'B Lee - 1']",2011,Sri Lanka
 2011-03-06, Chennai,League-Match,ENG,SA,171.0,0.0,165.0,0.0,England won by 6 runs,Ravi Bopara,"['RS Bopara - 60 runs ', 'IJL Trott - 52 runs ']","['SCJ Broad - 4', 'Imran Tahir - 4']",2011,India
 , Mirpur,League-Match,BAN,IRE,205.0,0.0,178.0,0.0,Bangladesh won by 27 runs,Tamim Iqbal,"['Tamim Iqbal - 44 runs ', ""NJ O'Brien - 38 runs ""]","['Shafiul Islam - 4', 'AC Botha - 3']",2011,Bangladesh
 2011-03-08, Pallekele,League-Match,NZ,PAK,302.0,7.0,192.0,0.0,New Zealand won by 110 runs,Ross Taylor,"['LRPL Taylor - 131 runs ', 'Abdul Razzaq - 62 runs ']","['TG Southee - 3', 'Umar Gul - 3']",2011,Sri Lanka
@@ -414,6 +424,7 @@ date,venue,match_category,team_1,team_2,team_1_runs,team_1_wickets,team_2_runs,t
 2015-02-15, Hamilton,League-Match,SA,ZIM,339.0,4.0,277.0,0.0,South Africa won by 62 runs,David Miller,"['DA Miller - 138 runs ', 'JP Duminy - 115 runs ']","['Imran Tahir - 3', 'VD Philander - 2']",2015,New Zealand
 2015-03-12, Wellington,League-Match,SA,UAE,341.0,6.0,195.0,0.0,South Africa won by 146 runs,AB de Villiers,"['AB de Villiers - 99 runs ', 'F Behardien - 64 runs ']","['Mohammad Naveed - 3', 'M Morkel - 2']",2015,New Zealand
 2015-03-21, Wellington,Final,NZ,WI,393.0,6.0,250.0,0.0,New Zealand won by 143 runs,Martin Guptill,"['MJ Guptill - 237 runs ', 'CH Gayle - 61 runs ']","['TA Boult - 4', 'JE Taylor - 3']",2015,New Zealand
+, Brisbane,League-Match,Australia,Bangladesh,,,,,Match abandoned without a ball bowled,,,,2015,Australia
 , Melbourne,League-Match,SL,BAN,332.0,1.0,240.0,0.0,Sri Lanka won by 92 runs,Tillakaratne Dilshan,"['TM Dilshan - 161 runs ', 'KC Sangakkara - 105 runs ']","['SL Malinga - 3', 'TM Dilshan - 2']",2015,Australia
 , Hobart,League-Match,SCOT,AUS,130.0,0.0,133.0,3.0,Australia won by 7 wickets (with 208 balls remaining),Mitchell Starc,"['MJ Clarke - 47 runs ', 'MW Machan - 40 runs ']","['MA Starc - 4', 'PJ Cummins - 3']",2015,Australia
 , Taunton,League-Match,AFG,NZ,172.0,0.0,173.0,3.0,New Zealand won by 7 wickets (with 107 balls remaining),James Neesham,"['KS Williamson - 79 runs ', 'Hashmatullah Shahidi - 59 runs ']","['JDS Neesham - 5', 'LH Ferguson - 4']",2019,England
@@ -425,7 +436,9 @@ date,venue,match_category,team_1,team_2,team_1_runs,team_1_wickets,team_2_runs,t
 2019-06-18, Manchester,League-Match,ENG,AFG,397.0,6.0,247.0,8.0,England won by 150 runs,Eoin Morgan,"['EJG Morgan - 148 runs ', 'JM Bairstow - 90 runs ']","['JC Archer - 3', 'AU Rashid - 3']",2019,England
 2019-07-03, Chester-le-Street,League-Match,ENG,NZ,305.0,8.0,186.0,0.0,England won by 119 runs,Jonny Bairstow,"['JM Bairstow - 106 runs ', 'JJ Roy - 60 runs ']","['MA Wood - 3', 'JDS Neesham - 2']",2019,England
 2019-06-03, Nottingham,League-Match,PAK,ENG,348.0,8.0,334.0,9.0,Pakistan won by 14 runs,Mohammad Hafeez,"['JE Root - 107 runs ', 'JC Buttler - 103 runs ']","['MM Ali - 3', 'Wahab Riaz - 3']",2019,England
+2019-06-07, Bristol,League-Match,Pakistan,Sri Lanka,,,,,Match abandoned without a ball bowled,,,,2019,England
 2019-07-14, Lord's,Final,NZ,ENG,241.0,8.0,241.0,0.0,Match tied (England won on boundary count),Ben Stokes,"['BA Stokes - 84 runs ', 'JC Buttler - 59 runs ']","['CR Woakes - 3', 'LE Plunkett - 3']",2019,England
+2019-06-13, Nottingham,League-Match,India,New Zealand,,,,,Match abandoned without a ball bowled,,,,2019,England
 2019-06-14, Southampton,League-Match,WI,ENG,212.0,0.0,213.0,2.0,England won by 8 wickets (with 101 balls remaining),Joe Root,"['JE Root - 100 runs ', 'N Pooran - 63 runs ']","['MA Wood - 3', 'JC Archer - 3']",2019,England
 2019-07-09, Manchester,League-Match,NZ,IND,239.0,8.0,221.0,0.0,New Zealand won by 18 runs,Matt Henry,"['RA Jadeja - 77 runs ', 'LRPL Taylor - 74 runs ']","['MJ Henry - 3', 'B Kumar - 3']",2019,England
 2019-06-05, Southampton,League-Match,SA,IND,227.0,9.0,230.0,4.0,India won by 6 wickets (with 15 balls remaining),Rohit Sharma,"['RG Sharma - 122 runs ', 'CH Morris - 42 runs ']","['YS Chahal - 4', 'JJ Bumrah - 2']",2019,England
@@ -450,6 +463,7 @@ date,venue,match_category,team_1,team_2,team_1_runs,team_1_wickets,team_2_runs,t
 2019-06-01, Cardiff,League-Match,SL,NZ,136.0,0.0,137.0,0.0,New Zealand won by 10 wickets (with 203 balls remaining),Matt Henry,"['MJ Guptill - 73 runs ', 'C Munro - 58 runs ']","['LH Ferguson - 3', 'MJ Henry - 3']",2019,England
 2019-06-25, Lord's,League-Match,AUS,ENG,285.0,7.0,221.0,0.0,Australia won by 64 runs,Aaron Finch,"['AJ Finch - 100 runs ', 'BA Stokes - 89 runs ']","['JP Behrendorff - 5', 'MA Starc - 4']",2019,England
 2019-06-06, Nottingham,League-Match,AUS,WI,288.0,0.0,273.0,9.0,Australia won by 15 runs,Nathan Coulter-Nile,"['NM Coulter-Nile - 92 runs ', 'SPD Smith - 73 runs ']","['MA Starc - 5', 'CR Brathwaite - 3']",2019,England
+2019-06-11, Bristol,League-Match,Bangladesh,Sri Lanka,,,,,Match abandoned without a ball bowled,,,,2019,England
 2019-07-09, Manchester,League-Match,NZ,IND,239.0,8.0,221.0,0.0,New Zealand won by 18 runs,Matt Henry,"['RA Jadeja - 77 runs ', 'LRPL Taylor - 74 runs ']","['MJ Henry - 3', 'B Kumar - 3']",2019,England
 2019-06-09, The Oval,League-Match,IND,AUS,352.0,5.0,316.0,0.0,India won by 36 runs,Shikhar Dhawan,"['S Dhawan - 117 runs ', 'V Kohli - 82 runs ']","['B Kumar - 3', 'JJ Bumrah - 3']",2019,England
 2019-06-20, Nottingham,League-Match,AUS,BAN,381.0,5.0,333.0,8.0,Australia won by 48 runs,David Warner,"['DA Warner - 166 runs ', 'Mushfiqur Rahim - 102 runs ']","['Soumya Sarkar - 3', 'MA Starc - 2']",2019,England
@@ -459,6 +473,7 @@ date,venue,match_category,team_1,team_2,team_1_runs,team_1_wickets,team_2_runs,t
 2019-07-01, Chester-le-Street,League-Match,SL,WI,338.0,6.0,315.0,9.0,Sri Lanka won by 23 runs,Avishka Fernando,"['N Pooran - 118 runs ', 'WIA Fernando - 104 runs ']","['SL Malinga - 3', 'JO Holder - 2']",2019,England
 2019-06-23, Lord's,League-Match,PAK,SA,308.0,7.0,259.0,9.0,Pakistan won by 49 runs,Haris Sohail,"['Haris Sohail - 89 runs ', 'Babar Azam - 69 runs ']","['Wahab Riaz - 3', 'Shadab Khan - 3']",2019,England
 2019-06-21, Leeds,League-Match,SL,ENG,232.0,9.0,212.0,0.0,Sri Lanka won by 20 runs,Lasith Malinga,"['AD Mathews - 85 runs ', 'BA Stokes - 82 runs ']","['SL Malinga - 4', 'DM de Silva - 3']",2019,England
+2019-06-10, Southampton,League-Match,SA,WI,29.0,2.0,,,No result,,"['Q de Kock - 17 runs ', 'HM Amla - 6 runs ']","['SS Cottrell - 2', 'O Thomas - 0']",2019,England
 , Manchester,League-Match,NZ,WI,291.0,8.0,286.0,0.0,New Zealand won by 5 runs,Kane Williamson,"['KS Williamson - 148 runs ', 'CR Brathwaite - 101 runs ']","['TA Boult - 4', 'SS Cottrell - 4']",2019,England
 2019-07-02, Birmingham,League-Match,IND,BAN,314.0,9.0,286.0,0.0,India won by 28 runs,Rohit Sharma,"['RG Sharma - 104 runs ', 'KL Rahul - 77 runs ']","['Mustafizur Rahman - 5', 'JJ Bumrah - 4']",2019,England
 2019-05-31, Nottingham,League-Match,PAK,WI,105.0,0.0,108.0,3.0,West Indies won by 7 wickets (with 218 balls remaining),Oshane Thomas,"['CH Gayle - 50 runs ', 'N Pooran - 34 runs ']","['O Thomas - 4', 'Mohammad Amir - 3']",2019,England
