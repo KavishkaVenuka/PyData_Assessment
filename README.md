@@ -111,10 +111,15 @@ Access the dashboard at [http://localhost:8050](http://localhost:8050).
 ---
 
 ## 🧑‍🤝‍🧑 **Team Members**
-- [Member 1 Name] - [Role/Tasks]
-- [Member 2 Name] - [Role/Tasks]
-- [Member 3 Name] - [Role/Tasks]
-- [Member 4 Name] - [Role/Tasks]
+- Senidu ravihara - dashboard
+- Tharidu thilakarathna - dashboard
+- Tharidu Nimsara - NLP model
+- Kavishka venuka - NLP model
+- dulan jeewantha - Data preparation handle outilers and missing values
+- amantha sandun - remove any duplicate
+- piyumi madushika  - editing readme file and remove null records
+- W.P sudasun - Adding new coloumns and to dataframe
+- ravidu yehan - concaternate files
 
 ---
 
@@ -123,7 +128,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📧 **Contact**
-For questions, contact:
-- [Your Name] ([your-email@example.com])
-- [Any other relevant contacts])
