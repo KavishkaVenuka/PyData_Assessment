@@ -1,12 +1,29 @@
 # PyData Project Repository
 
-This repository contains the deliverables for the PyData assessment. The project tackles one of the assigned case studies and includes tasks ranging from data preparation and analysis to building a visualization dashboard. 
+This project focuses on analyzing ICC Cricket World Cup statistics through data preparation, transformation, analysis, machine learning model deployment, and creating an interactive dashboard. 
 
 ## 📁 **Case Study**
-The project is based on the case study: **[Insert your assigned case study name here]**
+The project is based on the case study: **[ICC Cricket World Cup Stats]**
 
 ### Objective
-[Provide a brief description of the case study and the problem you are addressing.]
+[Description
+The ICC Cricket World Cup is one of the most highly regarded events in the cricketing world, where teams from around the world compete for glory. This case study shall explore past data from ICC Cricket World Cups to gain insight, find trends, and predict outcomes using this information. By preparing, transforming, analyzing, and visualizing cricket statistics, this project will narrate interesting data-driven stories, exploring at the same time how machine learning models can be used to gain deeper insights.
+
+Problem Statement
+Cricket generates an enormous amount of data: player performances, match results, team strategies, and historical statistics. However, much of this data exists in raw and unstructured forms, making it difficult to garner actionable insights from it.
+
+The major problems we try to solve are the following:
+
+Data Preparation Challenges: Cleaning, merging, and transforming raw datasets into a state ready for analysis.
+Identifying Key Insights: Analyzing player and team performance metrics to uncover trends and outliers.
+Model Deployment: To identify a reliable Hugging Face model that can be used in making predictions or classifying certain aspects of the cricket statistics. 
+Visualization and Storytelling: Develop an interactive dashboard to effectively communicate findings and let the user explore them.
+Objective
+The goal will be to develop an intensive yet user-friendly platform, integrating statistical analysis, machine learning, and visualization for insight into the performances of the ICC Cricket World Cup. This platform will:
+
+Allow for the efficient processing and analysis of data.
+Predict trends or outcomes using AI/ML models.
+Visualize data interactively, enhancing understanding and engagement for cricket enthusiasts and analysts.]
 
 ---
 
